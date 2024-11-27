@@ -1,0 +1,1 @@
+console.log("i am going to be a good developer");
